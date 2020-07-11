@@ -4,3 +4,4 @@ e:\SSD Optimization\Documents\Visual Studio 2017\Projects\NameGen\PlanetGen\bin\
 e:\SSD Optimization\Documents\Visual Studio 2017\Projects\NameGen\PlanetGen\obj\Debug\PlanetGen.csproj.CoreCompileInputs.cache
 e:\SSD Optimization\Documents\Visual Studio 2017\Projects\NameGen\PlanetGen\obj\Debug\PlanetGen.exe
 e:\SSD Optimization\Documents\Visual Studio 2017\Projects\NameGen\PlanetGen\obj\Debug\PlanetGen.pdb
+e:\SSD Optimization\Documents\Visual Studio 2017\Projects\NameGen\PlanetGen\obj\Debug\PlanetGen.csprojAssemblyReference.cache

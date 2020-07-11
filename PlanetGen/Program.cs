@@ -28,8 +28,7 @@ namespace NameGen
         }
         static void Main(string[] args)
         {
-            Console.WriteLine("----------------------------------------\n" +
-                "PLANET GEN IN CASE YOU FORGOT\n" +
+            Console.WriteLine("PLANET GEN IN CASE YOU FORGOT\n" +
                 "----------------------------------------");
             Random r = new Random();
             int p = r.Next() % maxPlanets + 1;
@@ -37,7 +36,7 @@ namespace NameGen
             int HorC = r.Next() % 2;
             for (int i = 0; i < p; i++)
             {
-                Console.WriteLine(i + 1 + ": ");
+                Console.WriteLine("Planet " + (i+1) + ": ");
                 int h = r.Next() % 101;
                 Console.WriteLine("Habitability: " + h + "%");
                 if (h <= 15)
@@ -87,7 +86,7 @@ namespace NameGen
                     }
                 }
             }
-            Console.WriteLine("Star type: " + (STAR_TYPE)sType + "-Class");
+            Console.WriteLine("--------------\nStar type: " + (STAR_TYPE)sType + "-Class");
 
             Console.WriteLine("Enter 'y' to continue");
             string ae = Console.ReadLine();
