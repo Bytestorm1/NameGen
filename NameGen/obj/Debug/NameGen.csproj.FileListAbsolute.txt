@@ -1,0 +1,7 @@
+e:\SSD Optimization\Documents\Visual Studio 2017\Projects\NameGen\NameGen\obj\Debug\NameGen.csprojAssemblyReference.cache
+e:\SSD Optimization\Documents\Visual Studio 2017\Projects\NameGen\NameGen\obj\Debug\NameGen.csproj.CoreCompileInputs.cache
+e:\SSD Optimization\Documents\Visual Studio 2017\Projects\NameGen\NameGen\bin\Debug\NameGen.exe.config
+e:\SSD Optimization\Documents\Visual Studio 2017\Projects\NameGen\NameGen\bin\Debug\NameGen.exe
+e:\SSD Optimization\Documents\Visual Studio 2017\Projects\NameGen\NameGen\bin\Debug\NameGen.pdb
+e:\SSD Optimization\Documents\Visual Studio 2017\Projects\NameGen\NameGen\obj\Debug\NameGen.exe
+e:\SSD Optimization\Documents\Visual Studio 2017\Projects\NameGen\NameGen\obj\Debug\NameGen.pdb
